@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khushi-gupta21
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning java script 
+- 🌱 I’m currently learning data visualization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khushiguptamay21@gmail.com
 
